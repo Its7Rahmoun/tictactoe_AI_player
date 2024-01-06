@@ -1,4 +1,4 @@
-<h&>Tic Tac Toe AI Player with AlphaGo Algorithm</h1>
+<h1>Tic Tac Toe AI Player with AlphaGo Algorithm</h1>
 Overview
 This project implements a Tic Tac Toe game with an AI player that utilizes the AlphaGo algorithm based on Reinforcement Learning (RL). The AI is designed not only to simulate human actions but also to learn and improve its gameplay over time, eventually achieving a level where it can consistently win against a human player.
 
